@@ -1,6 +1,6 @@
 # Array Utils
 
-A simple utility for working with arrays
+A simple utility for working with arrays [![Build Status](https://travis-ci.org/mshirlaw/array-utils.svg?branch=master)](https://travis-ci.org/mshirlaw/array-utils)
 
 ## Installation
 
