@@ -7,10 +7,10 @@
     "test": "mocha index.spec.js"
   },
   "keywords": [
-    "array-utils",
+    "array-utilities",
     "sum",
     "array",
-    "utils",
+    "utilities",
     "multiply"
   ],
   "license": "ISC",
