@@ -11,9 +11,18 @@
     "sum",
     "array"
   ],
-  "author": "Matt Shirlaw <mshirlaw@yahoo.com> (https://github.com/mshirlaw/)",
   "license": "ISC",
+  "dependencies": {},
   "devDependencies": {
     "mocha": "^5.1.0"
-  }
+  },
+  "author": "Matt Shirlaw <mshirlaw@yahoo.com> (https://github.com/mshirlaw/)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mshirlaw/array-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mshirlaw/array-utils/issues"
+  },
+  "homepage": "https://github.com/mshirlaw/array-utils#readme"
 }
