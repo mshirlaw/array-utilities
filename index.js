@@ -21,11 +21,11 @@ class ArrayUtils {
 	}
 
 	_addElements(total, value) {
-		return total + parseFloat(value);
+		return total + parseFloat(value || 0);
 	}
 
 	_multiplyElements(total, value) {
-		return total * parseFloat(value);
+		return total * parseFloat(value || 1);
 	}
 }
 

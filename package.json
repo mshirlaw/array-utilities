@@ -7,9 +7,11 @@
     "test": "mocha index.spec.js"
   },
   "keywords": [
-    "flatten",
+    "array-utils",
     "sum",
-    "array"
+    "array",
+    "utils",
+    "multiply"
   ],
   "license": "ISC",
   "dependencies": {},
