@@ -1,6 +1,6 @@
 'use strict';
 
-class ArrayUtils {
+class ArrayUtilities {
 	constructor() {}
 
 	sum(array, key) {
@@ -29,4 +29,4 @@ class ArrayUtils {
 	}
 }
 
-module.exports = new ArrayUtils();
+module.exports = new ArrayUtilities();

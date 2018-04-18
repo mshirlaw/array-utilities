@@ -5,13 +5,13 @@ A simple utility for working with arrays
 ## Installation
 
 ```javascript
-npm install array-utils --save
+npm install array-utilities --save
 ```
 
 ## Syntax
 
 ```javascript
-const utils = require('array-utils');
+const utils = require('array-utilities');
 
 utils.sum(<ARRAY>, <OBJECT-KEY>); // sum an array of primitive values or objects
 utils.multiply(<ARRAY>, <OBJECT-KEY>); // multiply an array of primitive values or objects
