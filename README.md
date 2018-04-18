@@ -1,4 +1,4 @@
-# Array Utils  [![Build Status](https://travis-ci.org/mshirlaw/array-utils.svg?branch=master)](https://travis-ci.org/mshirlaw/array-utils)
+# Array Utilities  [![Build Status](https://travis-ci.org/mshirlaw/array-utilities.svg?branch=master)](https://travis-ci.org/mshirlaw/array-utilities)
 
 A simple utility for working with arrays 
 
